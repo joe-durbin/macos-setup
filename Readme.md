@@ -33,11 +33,9 @@ This will download and execute the setup script from the provided URL.
    - **Miniconda** (Python environment manager)
    - **Visual Studio Code** (code editor)
    - **Docker Desktop** (container management)
-   - **NordVPN** (VPN client)
    - **LM Studio** (local language model)
    - **Obsidian** (note-taking application)
    - **UTM** (virtualization software)
-   - **GOG Galaxy** (game client)
 4. Configures Zsh with:
    - **Oh My Zsh** (Zsh framework for themes and plugins)
    - Auto-completion for `kubectl` and AWS CLI.
