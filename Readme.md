@@ -68,8 +68,6 @@ This will download and execute the setup script from the provided URL.
 - **Miniconda**: Python environment manager.
 - **Visual Studio Code**: Source code editor.
 - **Docker Desktop**: Docker container management tool.
-- **GOG Galaxy**: Game management client.
-- **NordVPN**: VPN for secure internet access.
 - **LM Studio**: Local language model interface.
 - **Obsidian**: Knowledge management and note-taking application.
 - **UTM**: Virtualization software for macOS.
